@@ -4,7 +4,7 @@ This project uses SQL to explore a retail dataset and answer business questions 
 
 ## Dataset
 
-The dataset contains 500 simulated sales transactions including:
+The dataset contains 1500 simulated sales transactions including:
 - `OrderID`, `Date`, `Product`, `Category`, `Region`, `Quantity`, `UnitPrice`, `TotalSale`
 
 ## Key Business Questions & Queries
